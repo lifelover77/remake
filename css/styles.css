@@ -1,0 +1,65 @@
+body {
+    font-family: 'Arial';
+}
+
+header {
+    font-family: 'Arial';
+}
+
+h2 {
+    font-family: 'Arial';
+    color: rgb(235, 133, 150);
+}
+
+h1 {
+    color: rgb(235, 133, 150);
+}
+
+h3 {
+    color: rgb(42, 155, 42);
+    font-weight: bold;
+    font-family: 'Arial';
+}
+
+article h1{
+    font-family: 'Arial';
+}
+
+h1 {
+    font-family: 'Arial';
+}
+
+p {
+    font-family: 'Arial';
+    font-size: 13px;
+}
+
+.page {
+    background-color: rgb(224, 255, 255);
+}
+
+ul {
+    gap: 1px;
+    font-family: 'Arial';
+}
+
+li {
+    font-family: 'Arial';
+    gap: 1px;
+}
+
+.paragrafo {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 30px;
+    margin: 1px;
+    border: 15px solid rgb(255, 238, 0);
+    width: 400px;
+    background-color: rgb(80, 167, 109);
+}
+.paragrafo p {
+    font-family: 'Arial';
+    color: #fff;
+    font-size: 16px;
+    text-align: center;
+}
